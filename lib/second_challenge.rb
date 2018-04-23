@@ -26,7 +26,7 @@ def second_challenge
       }
     ]
   },
-}
+
 
 
 
